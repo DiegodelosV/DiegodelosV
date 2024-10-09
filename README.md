@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm an aspiring developer with a deep passion for 
 ### 📚 I'm learning
 
 - **Design in UX**
-- **Use of Scrum Master**
+- **Scrum Master**
 - **Agile software development**
 
 ### 🎓 Education
