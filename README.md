@@ -1,4 +1,4 @@
-# hello! I am DiegodelosV
+# hello! I am Diego de los Santos
 
 ### 🚀 Aspiring Developer | Technology Enthusiast
 
@@ -10,22 +10,15 @@ Welcome to my GitHub profile! I'm an aspiring developer with a deep passion for 
 - **Frameworks & Libraries**: Bootstrap, jQuery, Vue.js
 - **Tools**: Visual Studio Code, Git, GitHub
 
-<!-- <!- ​​### 📝 Current projects
-
 ### 📚 I'm learning
 
-- **Border developer**
 - **Design in UX**
 - **Use of Scrum Master**
 - **Agile software development**
 
-<!-- <!- ​​### 🌱 next steps -->
+### 🎓 Education
 
-### :chart: Github Stats
-
-![DiegodelosV GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegodelosV&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegodelosV&hide_progress=true&theme=dark)
+- **UTFSM** - Mechanical Engineering
 
 ### 🎨 Hobbies
 
@@ -36,4 +29,8 @@ Welcome to my GitHub profile! I'm an aspiring developer with a deep passion for 
 - trekking
 - Continuous learning
 
------
+### :chart: Github Stats
+
+![DiegodelosV GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegodelosV&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegodelosV&hide_progress=true&theme=dark)
