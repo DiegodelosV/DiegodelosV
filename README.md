@@ -31,6 +31,4 @@ Welcome to my GitHub profile! I'm an aspiring developer with a deep passion for 
 
 ### :chart: Github Stats
 
-![DiegodelosV GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegodelosV&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegodelosV&hide_progress=true&theme=dark)
+![DiegodelosV GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegodelosV&show_icons=true&theme=dark)[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegodelosV&hide_progress=true&theme=dark)!
