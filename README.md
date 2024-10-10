@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm an aspiring developer with a deep passion for 
 
 - **UTFSM** - Mechanical Engineering
 
-### 🎨 Hobbies
+### 🎨 Hobbies & Interests
 
 - Reading
 - music
