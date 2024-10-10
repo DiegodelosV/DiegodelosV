@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm an aspiring developer with a deep passion for 
 
 ### 🌟 Technologies I am working
 
-- **Languages​​**: HTML, CSS, JavaScript, Python
-- **Frameworks & Libraries**: Bootstrap, jQuery, Vue.js
-- **Tools**: Visual Studio Code, Git, GitHub
+- **Languages​​**: `HTML`, `CSS`, `JavaScript`, `Python`
+- **Frameworks & Libraries**: `Bootstrap`, `jQuery`, `Vue.js`
+- **Tools**: `Visual Studio Code`, `Git`, `GitHub`
 
 ### 📚 I'm learning
 
